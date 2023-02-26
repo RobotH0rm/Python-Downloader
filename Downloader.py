@@ -53,4 +53,4 @@ elif option == 4:
     print('Finished Downloads.')
 
 else:
-    print('Error.')
+    print('Error. Run the program again.')
