@@ -8,7 +8,7 @@ Download your favourites videos and songs, in Python, with PyTube.
 You can see more about PyTube, here: [PyTube site](https://pytube.io/en/latest/)
 
 ### 2- Configuration:
-Before you downloaded the files, and PyTube, configure where you want to download the files.
+After you downloaded the files, and PyTube, configure where you want to download the files.
 
 > _Example:_
 
