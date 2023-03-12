@@ -3,7 +3,7 @@ Download your favorites videos and songs, in Python, with PyTube.
 
 # How to use?
 ### 1- Install PyTube:
-`$ pip install pytube`
+`pip install pytube`
 
 You can see more about PyTube here: [PyTube site](https://pytube.io/en/latest/)
 
